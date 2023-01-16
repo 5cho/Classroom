@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Students
+  - Nerd
+  - Logic
+  - WinArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Floor
+  - Desks
+  - Students
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 1562932623
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Desks
+    uniqueID: 4175740401
+    locked: 0
+  - name: Students
+    uniqueID: 82476937
+    locked: 0
+  - name: Player
+    uniqueID: 113697103
+    locked: 0
